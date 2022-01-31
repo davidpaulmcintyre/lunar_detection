@@ -12,7 +12,8 @@ The Lunar aimbot does not take any measures to avoid detection, so it is fairly 
 Follow the Lunar [instructions[](https://github.com/davidpaulmcintyre/lunar_detection/tree/main/Lunar) to install and start the aimbot, which are the same as in the [original repo](https://github.com/zeyad-mansour/Lunar).
 
 Then install the rust dependencies for the aimbot detector
-``cargo install
+```
+cargo install
 cargo run
-``
+```
 The rust script should detect and stop the python process running the Lunar/lunar.py script.
